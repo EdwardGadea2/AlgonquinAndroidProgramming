@@ -8,7 +8,7 @@ import android.os.Bundle;
 // hello :)
 public class MainActivity extends AppCompatActivity {
 
-    // Same as psvm (String[] args)...
+    // Same as public static void main (String[] args)...
     @Override   // aka its the starting point of the app
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
