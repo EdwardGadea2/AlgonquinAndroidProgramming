@@ -6,6 +6,7 @@ import android.os.Bundle;
 
 // hi :)
 // hello :)
+// BONJOUR!!!!!!
 public class MainActivity extends AppCompatActivity {
 
     // Same as public static void main (String[] args)...
