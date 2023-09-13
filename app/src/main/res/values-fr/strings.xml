@@ -2,6 +2,8 @@
 
 <resources>
 
-    <string name="hello">Bonjour!</string>
+    <string name="app_name">Edward\'s Android Labs</string>
+    <string name="hello_message">Bonjour!</string>
+    <string name="button_message">Cliquer moi!</string>
 
 </resources>
