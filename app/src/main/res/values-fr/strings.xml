@@ -6,5 +6,6 @@
     <string name="hello_message">Bonjour!</string>
     <string name="button_message">Cliquer moi!</string>
     <string name="hinttext">Écrivez quelque chose ici</string>
+    <string name="compound_button">Buvez-vous du café?</string>
 
 </resources>
