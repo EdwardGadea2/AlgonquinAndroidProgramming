@@ -5,5 +5,6 @@
     <string name="app_name">Edward\'s Android Labs</string>
     <string name="hello_message">Bonjour!</string>
     <string name="button_message">Cliquer moi!</string>
+    <string name="hinttext">Écrivez quelque chose ici</string>
 
 </resources>
